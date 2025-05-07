@@ -24,9 +24,9 @@ The main goal is to display returned job data in a way that can reliably present
 
 **Instructions:**
 
-Clone this repo and develop locally.
-When done, please create a new public repo and upload your solution to it.
-Please then email back Drew with a link to your solution.
+1. Clone this repo and develop locally.
+2. When done, please create a new public repo and upload your solution to it.
+3. Please then email back Drew with a link to your solution.
 
 
 
