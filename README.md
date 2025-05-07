@@ -27,3 +27,11 @@ The main goal is to display returned job data in a way that can reliably present
 Design isn’t the focus, so here's an example layout you can loosely follow. You’re encouraged to improve or adapt it if you have ideas for better handling inconsistencies, but no pressure!
 
 ![Example Design](./EXAMPLE_DESIGN.png)
+
+# Build and run
+
+In Terminal run:
+1. `npm i`
+2. `npm run start`
+
+The app should now be running at http://127.0.0.1:3000
