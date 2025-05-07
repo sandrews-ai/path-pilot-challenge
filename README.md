@@ -22,6 +22,14 @@ The main goal is to display returned job data in a way that can reliably present
 
 **Don't worry about Mobile, just focus on Desktop.**
 
+**Instructions:**
+
+Clone this repo and develop locally.
+When done, please create a new public repo and upload your solution to it.
+Please then email back Drew with a link to your solution.
+
+
+
 ## Example Design
 
 Design isn’t the focus, so here's an example layout you can loosely follow. You’re encouraged to improve or adapt it if you have ideas for better handling inconsistencies, but no pressure!
