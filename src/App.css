@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Poppins:wght@300;400;500;600&family=Karla&display=swap');
+
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.pac-container {
+  box-shadow: none !important;
+  z-index: 99999999999 !important;
+}
+
+.dropdown {
+  z-index: 99999999999 !important;
+}
